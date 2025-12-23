@@ -14,7 +14,10 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+
 **Proyectos relevantes**
+
 Analisis de embudo y retencion para Mercado Libre | https://docs.google.com/spreadsheets/d/1ds8d4NHMztKualKdJqQd2Jf4lRfAjhfyd6rBnOe8ou4/edit?usp=drive_link
 
 
