@@ -3,7 +3,6 @@
 ### 👨‍💻 Sobre mí
 - 🔭 **Proyecto actual:** Análisis de la relación entre **movilidad urbana y productividad económica** en ciudades de LATAM. 
 - 🌱 **Formación:** Economista y Analista de Datos 
-- 📊 **Enfoque:** Especializándome en transformar datos crudos en decisiones estratégicas
 
 ### 🛠️ Stack Tecnológico
 **Análisis y Procesamiento:**
