@@ -25,10 +25,12 @@ Data Analyst focused on transforming complex raw data into actionable business i
 
 ### 🚀 Featured Projects
 
-* **[Data Cleaning & Exploratory Analysis - NovaRetail+]**  
-  Data pipeline built in Python for ingesting, processing, and structuring customer retention metrics.
-* **[Operational KPI Tracking Dashboard - Power BI]**  
-  End-to-end data modeling and dashboard integration to monitor key business performance indicators.
+
+* **[[Field Expenses Audit & Financial Control - Coppel Guerrero]](https://github.com/vidaltiburciodominguez-boop/coppel-guerrero-expense-audit)**  
+  Data pipeline built in Python for auditing 135 expense receipts, tracking budget variances, and detecting local purchasing overruns in field maintenance operations.
+
+* **[[Operational Maintenance KPI & SLA Analytics - Retail]](https://github.com/vidaltiburciodominguez-boop/retail-maintenance-analysis)**  
+  End-to-end data processing and exploratory analysis to evaluate service order performance, SLA compliance, and cost allocation across retail branches.
 
 ---
 
